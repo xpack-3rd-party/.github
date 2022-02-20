@@ -1,4 +1,4 @@
-# Welcome to 3rd party xPacks!
+# Welcome to 3rd party source xPacks!
 
 This GitHub organization hosted 3rd party projects that were enhanced as xPacks, by adding the `package.json`.
 
