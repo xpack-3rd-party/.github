@@ -8,19 +8,19 @@ The projects are listed below, in alphabetical order. The **version** badge show
 
 - [arm-cmsis-core-m-xpack](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m/tags)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/arm-cmsis-core-m.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/arm-cmsis-core-m/)
 - [boost-ut-xpack](https://github.com/xpack-3rd-party/boost-ut-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/boost-ut-xpack)](https://github.com/xpack-3rd-party/boost-ut-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/boost-ut-xpack)](https://github.com/xpack-3rd-party/boost-ut/tags)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/boost-ut-xpack)](https://github.com/xpack-3rd-party/boost-ut-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/boost-ut.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/boost-ut/)
 - [catch2-xpack](https://github.com/xpack-3rd-party/catch2-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/catch2-xpack)](https://github.com/xpack-3rd-party/catch2-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/catch2-xpack)](https://github.com/xpack-3rd-party/catch2/tags)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/catch2-xpack)](https://github.com/xpack-3rd-party/catch2-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/catch2.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/catch2/)
 - [googletest-xpack](https://github.com/xpack-3rd-party/googletest-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/googletest-xpack)](https://github.com/xpack-3rd-party/googletest-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/googletest-xpack)](https://github.com/xpack-3rd-party/googletest/tags)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/googletest-xpack)](https://github.com/xpack-3rd-party/googletest-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/googletest.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/googletest/)
 
 ## Badges
