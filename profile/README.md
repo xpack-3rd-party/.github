@@ -6,10 +6,10 @@ This GitHub organization hosts 3rd party projects that were enhanced as xPacks, 
 
 The projects are listed below, in alphabetical order. The **version** badge shows the package.json version in the stable branch (`xpack`), and the **tag** badge shows the latest tag by date.
 
-- [arm-cmsis-core-m-xpack](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-m-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-m-xpack/tags/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/arm-cmsis-core-m.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/arm-cmsis-core-m/)
+- [arm-cmsis-core-xpack](https://github.com/xpack-3rd-party/arm-cmsis-core-xpack)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/arm-cmsis-core-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/arm-cmsis-core-xpack)](https://github.com/xpack-3rd-party/arm-cmsis-core-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/arm-cmsis-core.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/arm-cmsis-core/)
 - [boost-ut-xpack](https://github.com/xpack-3rd-party/boost-ut-xpack)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/boost-ut-xpack)](https://github.com/xpack-3rd-party/boost-ut-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/boost-ut-xpack)](https://github.com/xpack-3rd-party/boost-ut-xpack/tags/)
