@@ -23,6 +23,13 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/googletest-xpack)](https://github.com/xpack-3rd-party/googletest-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/googletest.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/googletest/)
 
+## Misc
+
+- [doxygen-awesome-css-xpack](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/doxygen-awesome-css.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/doxygen-awesome-css/)
+
 ## Badges
 
 Credit for the badges go to [Shields IO](https://shields.io).
