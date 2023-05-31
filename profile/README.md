@@ -32,7 +32,7 @@ The projects are listed below, in alphabetical order. The **version** badge show
 
 ## Misc
 
-#### [doxygen-awesome-css-xpack](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack) - custom CSS theme for doxygen html-documentation
+#### [doxygen-awesome-css-xpack](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack) - a custom CSS theme for doxygen html-documentation
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/blob/xpack/package.json)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/tags/)
