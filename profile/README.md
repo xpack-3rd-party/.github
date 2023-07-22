@@ -30,6 +30,12 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/googletest-xpack)](https://github.com/xpack-3rd-party/googletest-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/googletest.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/googletest/)
 
+#### [libucontext-xpack](https://github.com/xpack-3rd-party/libucontext-xpack) - Google Testing and Mocking Framework
+
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/libucontext-xpack)](https://github.com/xpack-3rd-party/libucontext-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/libucontext-xpack)](https://github.com/xpack-3rd-party/libucontext-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/libucontext.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/libucontext/)
+
 #### [raspberrypi-pico-sdk-xpack](https://github.com/xpack-3rd-party/raspberrypi-pico-sdk-xpack) - Google Testing and Mocking Framework
 
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/raspberrypi-pico-sdk-xpack)](https://github.com/xpack-3rd-party/raspberrypi-pico-sdk-xpack/blob/xpack/package.json)
