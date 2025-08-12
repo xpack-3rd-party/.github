@@ -42,13 +42,17 @@ The projects are listed below, in alphabetical order. The **version** badge show
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/raspberrypi-pico-sdk-xpack)](https://github.com/xpack-3rd-party/raspberrypi-pico-sdk-xpack/tags/)
 [![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/raspberrypi-pico-sdk.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/raspberrypi-pico-sdk/)
 
-## Misc
+#### [segger-rtt-xpack](https://github.com/xpack-3rd-party/segger-rtt-xpack) - Google Testing and Mocking Framework
 
-#### [doxygen-awesome-css-xpack](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack) - a custom CSS theme for doxygen html-documentation
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/segger-rtt-xpack)](https://github.com/xpack-3rd-party/segger-rtt-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/segger-rtt-xpack)](https://github.com/xpack-3rd-party/segger-rtt-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/segger-rtt.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/segger-rtt/)
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/blob/xpack/package.json)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/doxygen-awesome-css-xpack)](https://github.com/xpack-3rd-party/doxygen-awesome-css-xpack/tags/)
-[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/doxygen-awesome-css.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/doxygen-awesome-css/)
+#### [segger-system-view-xpack](https://github.com/xpack-3rd-party/segger-system-view-xpack) - Google Testing and Mocking Framework
+
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/xpack-3rd-party/segger-system-view-xpack)](https://github.com/xpack-3rd-party/segger-system-view-xpack/blob/xpack/package.json)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xpack-3rd-party/segger-system-view-xpack)](https://github.com/xpack-3rd-party/segger-system-view-xpack/tags/)
+[![npm (scoped)](https://img.shields.io/npm/v/@xpack-3rd-party/segger-system-view.svg?color=blue)](https://www.npmjs.com/package/@xpack-3rd-party/segger-system-view/)
 
 ## Badges
 
